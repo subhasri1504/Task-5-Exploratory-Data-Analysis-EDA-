@@ -73,9 +73,5 @@ The objective is to perform **Exploratory Data Analysis (EDA)** on the Titanic d
 
 ---
 
-## 🚀 How to Run the Notebook
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Task5_EDA_Titanic.git
-   cd Task5_EDA_Titanic
+ 
 
